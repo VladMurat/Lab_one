@@ -5,6 +5,7 @@
 void main()
 {
   printf("Hello, World!\n");
+  printf("La-La-La");
   getch();
 }
 
